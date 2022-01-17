@@ -1,2 +1,2 @@
 # datasets
-A collection of public datasets for my research.
+A collection of public datasets for my research and teaching.
